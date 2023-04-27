@@ -7,6 +7,9 @@ import java.util.Scanner;
  * @author dadjepon
  *
  */
+/**
+* Reminder from Robert to Update code with comments
+*/
 public class SwearWordPolice {
 
 	/**
@@ -42,3 +45,4 @@ public class SwearWordPolice {
 	}
 
 }
+
